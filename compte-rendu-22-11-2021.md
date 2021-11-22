@@ -7,6 +7,7 @@
 ```
 1- documentation :
         - primitive & reference data type
+        - 
         - collections :
                 + difference between collection framework
                 + ArrayList
@@ -17,7 +18,7 @@
         - cast type in java 
 
 2- brief :
-        - end the brief
+        - end brief
 
 
 ```
